@@ -4,10 +4,10 @@ Hi 👋 My name is Kartik Deshmukh
 Backend developer
 -----------------
 
-Founder of Socify(https://socify.co.in) Ethical Hacker Programmer App Developer A.I lover Technological Blood
+Founder of Respawn(https://respawn.mellob.co) Ethical Hacker Programmer App Developer A.I lover Technological Blood
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [mellob@socify.co.in](mailto:mellob@socify.co.in)
+* ✉️  You can contact me at [kartik@mellob.co](mailto:kartik@mellob.co)
 * 🚀  I'm currently working on [Socify](http://socify.co.in)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Intresting projects
