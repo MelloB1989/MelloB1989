@@ -2,7 +2,7 @@ Hi 👋 My name is Kartik Deshmukh
 ================================
 
 # 💫 About Me:
-🌍  I'm based in India<br>✉️  You can contact me at kartik.mellob@coffeecodes.in<br>🚀  I'm currently working on Avidia<br>🧠  I'm learning React<br>🤝  I'm open to collaborating on interesting projects
+🌍  I'm based in India<br>✉️  You can contact me at kartik.mellob@coffeecodes.in<br>🚀  I'm currently working on Avidia<br>🧠  I'm learning Rust<br>🤝  I'm open to collaborating on interesting projects
 
 
 ## 🌐 Socials:
